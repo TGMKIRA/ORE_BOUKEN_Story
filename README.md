@@ -1,2 +1,2 @@
 # ORE_BOUKEN_Story
-https://tgmkira.github.io/outline
+https://TGMKIRA.github.io/outline
